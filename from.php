@@ -151,10 +151,10 @@ if(isset($_POST['submit'])){
 	<div class="manubar">
 	<nav>
 	<ul>
-	<li><a href="index.html" class="homecolor"> Home</li></a>
+	<li><a href="index.php" class="homecolor"> Home</li></a>
 	<li><a href="team.html"> Our Team</li></a>
-	<li><a href=""> Service </li></a>
-	<li><a href="contrat.html"> Contact Us </li></a>
+	<li><a href="contrat.html"> Service </li></a>
+	<li><a href="from.php"> Contact Us </li></a>
 	</ul>
 	
 	
@@ -227,8 +227,8 @@ if(isset($_POST['submit'])){
   <title>Contact Form Bootstrap</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
+  <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" media="all" />
 </head>
-
 <body class="bg-dark">
   <div class="container">
     <div class="row justify-content-center">
@@ -267,7 +267,36 @@ if(isset($_POST['submit'])){
         </form>
       </div>
     </div>
-  </div>
-</body>
+
+	</div>
+
+	<div class="footer">
+<section class="main-footer">
+<img src="img/logo5.png" class="logof" />
+
+<h3 class="intro"> <b>Sagor Ahmead</b> <br> Web Application Developer</h3>
+<p class="email"> Phone: 01780485521<br> Email: sagorahmead.it.org@gmail.com <br> FB: Fb.com/me.sagorahmead
+<ul>
+<li><a href="https://www.facebook.com/me.sagorahmead/about?section=contact-info&lst=100007442896705%3A100007442896705%3A1568204598" target="blank"><i class="fa fa-phone-square fa-2x" aria-hidden="true"></a></i></li>
+<li> <a href="#"><i class="fa fa-envelope fa-2x" aria-hidden="true"></a></i></li>
+<li><a href="https://www.facebook.com/me.sagorahmead" target="blank"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></a></i></li>
+<li><a href="#"><i class="fa fa-twitter fa-2x" aria-hidden="true"></a></i></li>
+<li><a href="https://www.youtube.com/channel/UCv3A4q3RXM8wOh1vSRFasjQ?view_as=subscriber" target="blank"><i class="fa fa-youtube-play fa-2x" aria-hidden="true"></a></i></li>
+
+</ul>
+
+</section>
+</div>
+<div class= "secendf">
+<section class="lastf">
+
+<p class="lastp">All Copy Right freelancer-sagor.com @2019</p>
+
+</section>
+
+</div>
+
+
+	</body>
 
 </html>
