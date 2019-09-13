@@ -1,0 +1,463 @@
+*{
+	margin:0px;
+	padding: 0px;
+	border:0px;
+}
+
+body{
+	
+	
+	font-size: 15px;
+	margin:0px;
+
+
+}
+/* start manu*/
+
+.manubar{
+	position: absolut;
+	padding: 0px;
+	margin: 0px;
+	margin-top: 0px;
+	background-color:#d3d3d3;
+	height: 60ox;
+	
+}
+nav{
+	padding:0px;
+	margin:0px;
+	margin-top:0px;
+	position:absolut;
+	box-sizing: border-box;
+	border-radius: 2px;
+	border-right: 1px solid white;
+	background: #00316b;
+	width: 100%;
+	height: 70px;
+	
+
+
+}
+nav ul{ 
+	padding: 0px;
+    float: right;
+	text-align: left;
+	font-size: 15px;
+	position: relative;
+	line-height: 50px;
+	display:block;
+}
+nav ul li{ padding:opx 15px 0px 0px;
+     position: relative;
+	list-style: none;
+	text-decoration:none;
+	display:inline-block;
+	margin:5px 10px;
+    line-height:70px;
+	transition: 0.9s all;
+	overflow: none;
+	}
+
+
+nav ul li a{
+	      position: relative;
+         color: white;
+		 font-weight:bold;
+		 font-size: 20px;
+		 height: 50px;
+		 text-decoration:none
+	
+}
+
+.homecolor{
+	 background: #e91e63;
+	 line-height: 70px;
+	
+}
+nav ul li a:hover{
+	background:#e91e63;
+line-height: 70px;
+	}
+
+
+.slider{ margin: 5px;
+margin-right: 10px;
+margin-top:0px;
+position: absolut;
+ width: 100%;
+ height: 60%; 
+
+}
+/* end manu*/
+
+
+/* start slider*/
+
+.text-animation{
+	
+	margin:0px;
+	padding: 0px;
+	position: absolut;
+	width: 100%;
+	height: 40%;
+	float:right;
+	text-align: center;
+	
+	
+}
+.typing-text{
+	color:#FF6600;
+	font-weight: 600;
+	
+	
+}
+.myphoto{
+	margin: 0px;
+	padding:0px;
+	margin-left:0px;;
+	position: absolut; 
+	width: 100px;
+	height: auto; 
+	border-radius:50%;
+}
+/* end slider*/
+
+/* start */
+.content{
+	
+	position: absolut;
+	margin:0px;
+	padding:0px;
+	width:100%;
+	height:50%;
+	float:right;
+	
+}
+section{
+
+	margin:0;
+	padding:0px;
+	float:left;
+	width: 33.33%;
+    text-align: center;
+	background-color:#e6e6e6;
+}
+/* end */
+
+/* start */
+.more{
+	
+	
+	margin: 0px;
+	padding:0px;
+	margin-top: 30px;
+	position: absolut;
+	width: 100%;
+	height: 60%;
+	background-color:#B1E2EE;
+	border-bottom: 1 px solid black;
+}
+.wskill{
+ font-size: 20px;
+color: blue ;
+font-weight:bold; 
+}
+/* end */
+
+
+.worktime{
+	margin: 10px 0px 0px 0px;
+	padding: 0px;
+	position:absolut;
+	width:100%;
+	height: 60%;
+	background-color:#91E0AC;
+}
+.avalible{
+	color:white;
+}
+/* end */
+
+/* start footer*/
+.main-footer{
+	margin:0 ;
+	padding:0;
+	position: absolut;
+	width: 100%;
+	height: 50%;
+	background-color:black;
+	
+}
+.main-footer ul{
+	list-style: none;
+	text-align: center;
+	
+}
+.main-footer ul li{
+	margin: 20px;
+	margin-bottom: 100px;
+	text-align:center;
+	display:inline-block;
+  
+	}
+.main-footer ul li a{
+	
+	color: #0FD138;
+	float: right;
+	text-align: center;
+	
+}
+.main-footer ul li a i{
+	
+	font-size: 31px;
+	
+}
+.logof{
+	
+	margin:50px 0px 0px 0px;
+	padding:0px;
+	position:absolut;
+	width: 200px;
+	height: auto;
+	float:right;
+	text-align:left;
+}
+
+.intro{
+	margin:0px 0px 0px 10px;
+	padding:0px;
+	position:absolut;
+	font-size: 22px;
+	font-weight: 700;
+	text-align:left;
+	color: #41D10F;
+}
+.email{
+margin:0px 0px 0px 10px;
+	padding:0px;
+	position:absolut;
+	font-size: 16px;
+	font-weight: 700;
+	text-align:left;
+	
+	color: #5CEA0C;
+}
+
+
+.lastf{
+	margin:0px;
+	padding:0px;
+	position:absolut;
+	height: 39px;
+	width: 100%;
+	background-color:#06FF3F;
+
+}
+
+.lastp{
+	
+	margin:0px;
+	padding:0px;
+	position:absolut;
+    color:black;
+	font-weight:bold;
+	font-size: 20px;
+	
+}
+/* end footer*/
+
+/* start team work*/
+.amaderlok{
+	padding:0px;
+	margin: 0px;
+	margin-left: 0px;
+	position: absolut;
+	width: 100%;
+	height: 360px;
+	float:left;
+	text-align:right;
+
+}
+.mainwt{
+	
+	padding:0px; 
+	margin: 0px;
+	right: 100px;
+	top: 10px;
+	position:absolut;
+	width: 33.33%;
+	height: 300px;
+	background-image: linear-gradient(to right top, #af22bc, #f2008a, #ff4356, #ff8224, #e5b700, #d8c500, #c9d204, #b6df1f, #cece17, #e0be22, #ebad33, #f09e44);
+}
+
+.mainwt1{
+	
+	
+	padding:0px; 
+	margin: 0px;
+	position:absolut;
+	width: 33.33%;
+	height: 300px;
+	background-image: linear-gradient(to right top, #af22bc, #f2008a, #ff4356, #ff8224, #e5b700, #cccc00, #a9e023, #77f34e, #6cf257, #60f260, #53f169, #44f071);
+
+}
+
+.mainwt2{
+    padding:0px; 
+	margin: 0px;
+	position:absolut;
+	width: 31%;
+	height: 300px;
+	background-image: linear-gradient(to right top, #af22bc, #f2008a, #ff4356, #ff8224, #e5b700, #b6ce2d, #7edf63, #00ec9d, #00e0cc, #00d0ed, #00bcfa, #44a5f0);
+
+	
+	
+	
+}
+.team1{
+	
+	margin: 0px;
+	margin-top: 30px;
+	padding:0px;
+	position: absolut;
+	width: 200px;
+	height:auto;
+	border-radius: 50%;
+}
+.team2{	margin: 0px;
+	margin-top: 30px;
+	padding:0px;
+	position: relative;
+	width: 200px;
+	height:auto;
+	border-radius: 50%;
+}
+.team3{
+	margin: 0px;
+	margin-right: 20px;
+	margin-top: 30px;
+	padding:0px;
+	position: relative;
+	width: 200px;
+	height:auto;
+	border-radius: 50%;
+}
+
+.d1{
+	color: white;
+	
+}
+.btn{position:absolut;
+    right: 20px;
+    top: 20px;
+	width:50px;
+	height:auto;
+	box-sizing: border-box;
+	border-radius: 4px solid white;
+	
+	
+}
+
+.wecan{
+	
+	margin:0px;
+	padding:0px;
+	margin-top:0px;
+	position: relative;
+	float: right;
+	text-align: left;
+	height: 400px;
+	width: 100%;
+	background: ;
+}
+	
+.wep
+{
+	margin:0px ;
+	padding:0px;
+	position:absolut;
+	float: right:
+	width: 610px;
+	height: 400px;
+	
+	
+}
+
+.wecant{
+	margin:0px;
+	padding:0px;
+	position:relative;
+	float: right;
+	text-align: left;
+	color: black;
+	font-weight: bold;
+	top: 10px;
+	right: 250px;
+}
+.pwe{
+	
+	margin:0px;
+	padding:0px;
+	position:relative;
+	float: left;
+	text-align: center;
+	color: black;
+	font-weight: bold;
+	font-size: 17px;
+	line-height: 30px;
+	top: 40px;
+	right:0px;
+	}
+	
+
+	.success img{margin-top: 20px;
+	    margin: 0px;
+		padding: 30px;
+		height: auto;
+		width: 700px;
+	}
+	.success p{
+	margin-top: 100px;
+	margin-right: 30px;
+		position: absolut;
+		float: right;
+		text-align: center;
+		font-size: 18px;
+		line-height: 40px;
+		font-weight:bolod;
+		color:#064AFF;
+	}
+	iframe{
+		margin: 0px;
+		margin-top: 70px;
+		margin-left:0px;
+		margin-right: 200px;
+		padding: 0px;
+		position: fixed;
+		width:1000px;
+		height: 450px;
+		float: left: 
+		
+	}
+	
+	
+	.amader-frm{
+		margin:0px;
+		padding:0px
+		position: relative;
+		float: right:
+		text-align: center;
+		height: 450px;
+		width: 50%;
+		background:#E6E6E6;
+		margin-top: 50px;
+		margin-left: 330px;
+	  
+		
+	}
+	.amader-frm h2{
+		
+		margin: 0px;
+		margin-top: 10px;
+		color: green;
+	}
